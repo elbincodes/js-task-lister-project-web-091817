@@ -107,6 +107,7 @@ button {
 	color: #26558b;
 	line-height: 22px;
 	margin-bottom: 10px;
+	display: inline-block;
 }
 
 #mocha {
